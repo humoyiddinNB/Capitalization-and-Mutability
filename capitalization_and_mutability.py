@@ -17,5 +17,3 @@ def capitalize_word (word) -> str:
     return word.capitalize()
 
 print(capitalize_word("salom og'ayni"))
-
-# heee
